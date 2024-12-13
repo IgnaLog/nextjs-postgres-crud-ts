@@ -48,8 +48,8 @@ The application consists of several key components:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/nextjs-postgres-crud-typescript.git
-cd nextjs-postgres-crud-typescript
+git clone https://github.com/IgnaLog/nextjs-postgres-crud-ts.git
+cd nextjs-postgres-crud-ts
 ```
 
 ### 2. Install Dependencies
